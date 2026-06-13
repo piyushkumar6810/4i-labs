@@ -1,4 +1,4 @@
-# ROV Vision System — Environmental Degradation Test
+#Vision System — Environmental Degradation Test
 
 ## What this project does
 
