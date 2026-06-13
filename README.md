@@ -1,8 +1,8 @@
 #Vision System — Environmental Degradation Test
 
-## What this project does
+## Aim of the code
 
-This project tests how well an AI model can identify underwater objects
+This code tests how well an AI model can identify underwater objects
 when the camera conditions are bad — like murky water, deep water color
 changes, and low-light noise. It simulates what a real underwater robot
 camera would see and checks how much the AI struggles.
