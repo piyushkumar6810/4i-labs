@@ -9,7 +9,7 @@ camera would see and checks how much the AI struggles.
 
 ---
 
-## What you need to install
+## What to install
 
 ```bash
 pip install torch torchvision pillow opencv-python numpy
@@ -17,9 +17,9 @@ pip install torch torchvision pillow opencv-python numpy
 
 ---
 
-## What to put in the folder
+## What i need to put in the folder
 
-Before running, make sure these images are in the same folder as the code:
+Before running, i made sure these images are in the same folder as the code:
 
 ```
 aquarium.jpg
@@ -33,16 +33,6 @@ set_u113_SESR.png
 
 ---
 
-## How to run
-
-```bash
-python vision_test.py
-```
-
-The first time you run it, it will automatically download the AI model
-and a list of class names from the internet. This only happens once.
-
----
 
 ## What the code does
 
