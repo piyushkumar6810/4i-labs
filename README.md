@@ -138,23 +138,4 @@ ResNet18 occasionally exceeds the 30 FPS budget (max 35.55 ms). MobileNetV2 is f
 
 ---
 
-## Project Structure
 
-```
-rov-vision-task/
-├── vision_test.ipynb        # main notebook
-├── README.md                # this file
-├── ROV_Vision_Report.pdf    # analysis report
-├── aquarium.jpg             # input images
-├── jellyfish.jpg
-├── set_f20_SESR.png
-├── set_f46_SESR.png
-├── set_o20_SESR.png
-├── set_u106_SESR.png
-├── set_u113_SESR.png
-└── outputs/                 # generated degraded images
-    ├── aquarium_turbid.jpg
-    ├── aquarium_colorshift.jpg
-    ├── aquarium_noise.jpg
-    └── ...
-```
